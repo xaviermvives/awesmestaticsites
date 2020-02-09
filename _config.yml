@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: jekyll-athena
 plugins:
   - jekyll-feed
+destination: public
 
 # Exclude from processing.
 # The following items will not be processed, by default.
